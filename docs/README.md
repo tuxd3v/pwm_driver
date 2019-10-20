@@ -53,7 +53,7 @@ If you want to help this project, consider a donation..
 ```
 ### Credits
 ----
-FAN5V-PWM_CTL   : tuxd3v
+pwm_driver      : tuxd3v
 
 Boards Images	: tuxd3v
 
