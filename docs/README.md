@@ -56,3 +56,5 @@ If you want to help this project, consider a donation..
 FAN5V-PWM_CTL   : tuxd3v
 
 Boards Images	: tuxd3v
+
+Fan Icon	: `[ freepik ] | https://www.flaticon.com/authors/freepik`
