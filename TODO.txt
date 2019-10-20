@@ -1,0 +1,6 @@
+
+Verify Signals and noise created by the driver pulses..
+tune vias placement
+Check possibility to add rpm feedback information.. maybe with a hall sensor or something else..
+
+Check switching noise with higher frequencies..
