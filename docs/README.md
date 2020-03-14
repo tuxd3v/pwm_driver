@@ -32,6 +32,7 @@ The board files are in file 'FAN5V-PWM_CTL.zip'
 ----
 * Any SBC capable to offer the voltage or current required by the fan..
 * 1N4001 Diode
+* Resistor 1/6w 270k
 * STT6N3LLH6 N-MOSFET
 * 1x3 2.54mm Male pin Header
 * 1x2 2.54mm Male pin Header
