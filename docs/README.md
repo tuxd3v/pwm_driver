@@ -18,7 +18,6 @@ The board files are in file 'FAN5V-PWM_CTL.zip'
 #####  PWM Driver:
 
 ![Front Pcb:](https://github.com/tuxd3v/pwm_driver/blob/master/docs/F-cu.png)
-![Back Pcb:](https://github.com/tuxd3v/pwm_driver/blob/master/docs/b-cu.png)
 
 ##### Explanation:
     
